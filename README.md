@@ -18,7 +18,7 @@ From the above Graph we can see that Presidents in the early 18th,19th Century h
 Republican vocab has been decling on an average from 1909, whereas democrats voacabs are wavering around a average.
 Initial presidencies were mostly independent 1829 was the first democratic president and republic president was in 1869. We can see from 1885 U.S become Bi-party government
 
-![Pic4](https://github.com/ARGULASAISURAJ/Analysis_of_US_presidential_speeches/blob/main/pic5.PNG)
+![Pic4](https://github.com/ARGULASAISURAJ/Analysis_of_US_presidential_speeches/blob/main/pic4.PNG)
 
 **Top Words used by Presidents**
 
@@ -29,10 +29,11 @@ Democrats and Republicans use same set of words for their speech based on freque
 
 ![Pic1](https://github.com/ARGULASAISURAJ/Analysis_of_US_presidential_speeches/blob/main/pic2.PNG)
 
-![Pic2](https://github.com/ARGULASAISURAJ/Analysis_of_US_presidential_speeches/blob/main/pic3.PNG)
 
 
 **Sentiment Anlaysis scores**
+
+![Pic2](https://github.com/ARGULASAISURAJ/Analysis_of_US_presidential_speeches/blob/main/pic3.PNG)
 
 ![Pic5](https://github.com/ARGULASAISURAJ/Analysis_of_US_presidential_speeches/blob/main/pic5.PNG)
 
