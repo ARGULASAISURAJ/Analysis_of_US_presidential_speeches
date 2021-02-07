@@ -27,7 +27,7 @@ Initial presidencies were mostly independent 1829 was the first democratic presi
 **Comparision of Democrats and Republicans most frequent words**
 Democrats and Republicans use same set of words for their speech based on frequent used words.
 
-![Pic1](https://github.com/ARGULASAISURAJ/Analysis_of_US_presidential_speeches/blob/main/Images/pic1.PNG)
+![Pic1](https://github.com/ARGULASAISURAJ/Analysis_of_US_presidential_speeches/blob/main/Images/pic.PNG)
 
 
 
