@@ -18,24 +18,24 @@ From the above Graph we can see that Presidents in the early 18th,19th Century h
 Republican vocab has been decling on an average from 1909, whereas democrats voacabs are wavering around a average.
 Initial presidencies were mostly independent 1829 was the first democratic president and republic president was in 1869. We can see from 1885 U.S become Bi-party government
 
-![Pic4](https://github.com/ARGULASAISURAJ/Analysis_of_US_presidential_speeches/blob/main/pic4.PNG)
+![Pic4](https://github.com/ARGULASAISURAJ/Analysis_of_US_presidential_speeches/blob/main/Images/pic4.PNG)
 
 **Top Words used by Presidents**
 
-![Pic](https://github.com/ARGULASAISURAJ/Analysis_of_US_presidential_speeches/blob/main/pic.PNG)
+![Pic](https://github.com/ARGULASAISURAJ/Analysis_of_US_presidential_speeches/blob/main/Images/pic.PNG)
 
 **Comparision of Democrats and Republicans most frequent words**
 Democrats and Republicans use same set of words for their speech based on frequent used words.
 
-![Pic1](https://github.com/ARGULASAISURAJ/Analysis_of_US_presidential_speeches/blob/main/pic2.PNG)
+![Pic1](https://github.com/ARGULASAISURAJ/Analysis_of_US_presidential_speeches/blob/main/Images/pic1.PNG)
 
 
 
 **Sentiment Anlaysis scores**
 
-![Pic2](https://github.com/ARGULASAISURAJ/Analysis_of_US_presidential_speeches/blob/main/pic3.PNG)
+![Pic2](https://github.com/ARGULASAISURAJ/Analysis_of_US_presidential_speeches/blob/main/Images/pic3.PNG)
 
-![Pic5](https://github.com/ARGULASAISURAJ/Analysis_of_US_presidential_speeches/blob/main/pic5.PNG)
+![Pic5](https://github.com/ARGULASAISURAJ/Analysis_of_US_presidential_speeches/blob/main/Images/pic5.PNG)
 
 From the above Bar_plots we can see that all presedential speeches of Republican and democratic presedents are compounded to aproximately 1. This might be due to the high positive words used after winning elections.
 One intresting thing to observe from the graph is the speech of Andrew Johnson in 1865. The polarity of the speech is negative. Also, George washington speech of 1793 which is at approx~ 075 when compared to all other speeches at ~1.
@@ -46,14 +46,3 @@ Others        0.852627
 Republican    0.999886
 
 Above are the top 3 presidents by positive sentiment score in each group of parties
-
-Thanks,
-
-**Sai Suraj Argula**
-
-Phone no - +1 8135396715
-
-LinkedIn - https://www.linkedin.com/in/suraj-argula/
-
-Website - https://argulasaisuraj.github.io/Suraj_Website/
-
